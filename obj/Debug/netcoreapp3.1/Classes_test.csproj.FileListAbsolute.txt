@@ -1,0 +1,14 @@
+C:\Users\salima omari\source\repos\Classes_test\bin\Debug\netcoreapp3.1\Classes_test.exe
+C:\Users\salima omari\source\repos\Classes_test\bin\Debug\netcoreapp3.1\Classes_test.deps.json
+C:\Users\salima omari\source\repos\Classes_test\bin\Debug\netcoreapp3.1\Classes_test.runtimeconfig.json
+C:\Users\salima omari\source\repos\Classes_test\bin\Debug\netcoreapp3.1\Classes_test.runtimeconfig.dev.json
+C:\Users\salima omari\source\repos\Classes_test\bin\Debug\netcoreapp3.1\Classes_test.dll
+C:\Users\salima omari\source\repos\Classes_test\bin\Debug\netcoreapp3.1\Classes_test.pdb
+C:\Users\salima omari\source\repos\Classes_test\obj\Debug\netcoreapp3.1\Classes_test.csproj.AssemblyReference.cache
+C:\Users\salima omari\source\repos\Classes_test\obj\Debug\netcoreapp3.1\Classes_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salima omari\source\repos\Classes_test\obj\Debug\netcoreapp3.1\Classes_test.AssemblyInfoInputs.cache
+C:\Users\salima omari\source\repos\Classes_test\obj\Debug\netcoreapp3.1\Classes_test.AssemblyInfo.cs
+C:\Users\salima omari\source\repos\Classes_test\obj\Debug\netcoreapp3.1\Classes_test.csproj.CoreCompileInputs.cache
+C:\Users\salima omari\source\repos\Classes_test\obj\Debug\netcoreapp3.1\Classes_test.dll
+C:\Users\salima omari\source\repos\Classes_test\obj\Debug\netcoreapp3.1\Classes_test.pdb
+C:\Users\salima omari\source\repos\Classes_test\obj\Debug\netcoreapp3.1\Classes_test.genruntimeconfig.cache
