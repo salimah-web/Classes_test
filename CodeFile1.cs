@@ -14,7 +14,7 @@ namespace asp
             set
             {
                 if (value.Length > 4)
-                { Pin = value; }
+                { Pin = value; }//This explains encapsulation as this property allows restricted access to the private field
                 
             }
          }
